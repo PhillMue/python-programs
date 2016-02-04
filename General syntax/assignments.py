@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 def main():
-	print("This is the syntax.py file.")
-	print("this is another line")
+	a = "one"
+	print(type(a), a)
+	
 
 if __name__ == '__main__': main()
 

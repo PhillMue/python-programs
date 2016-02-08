@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-#cat /usr/share/dict/words > words.txt
+
 def spellcheck():
 	sentence= input("Write your sentence?")
 	data = open("words.txt").readlines()
